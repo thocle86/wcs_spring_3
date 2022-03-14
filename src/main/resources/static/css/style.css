@@ -1,0 +1,14 @@
+header {
+    background-color: yellow;
+    padding: 20px;
+}
+
+footer {
+    background-color: aqua;
+    padding: 20px;
+}
+
+main {
+    background-color: greenyellow;
+    padding: 30px;
+}
